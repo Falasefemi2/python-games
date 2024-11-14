@@ -1,3 +1,5 @@
+<!-- @format -->
+
 Project: Dungeon Escape Card Game
 Game Overview
 
@@ -54,3 +56,28 @@ Technical Requirements
     Victory Condition
         Check each turn if a player has reached the exit and declare a winner.
 
+Practice Questions
+
+    If and For Statements
+        Write a function even_numbers that takes a list of numbers and returns a list of only the even numbers using a for loop and an if statement.
+
+    range() and break / continue Statements
+        Write a for loop using range(10) to print numbers from 0 to 9. Modify it to skip printing the number 5 using continue and stop the loop if it reaches 8 using break.
+
+    Else Clauses on Loops
+        Write a loop to search for a number 5 in a list. If found, print "Found 5!" and break the loop. If the loop completes without finding it, print "5 is not in the list."
+
+    Defining Functions with Default Arguments
+        Write a function greet that takes a name and an optional greeting. If no greeting is provided, it should default to "Hello".
+
+    Keyword-Only Arguments
+        Write a function display_info that requires name as a positional argument but accepts age only as a keyword argument.
+
+    Lambda Expression
+        Write a lambda function that takes two numbers and returns their product. Use it in a simple print statement to show it works.
+
+    Documentation Strings
+        Write a function add that adds two numbers. Add a docstring explaining what the function does.
+
+    Function Annotations
+        Write a function multiply with annotations that take two integers and return their product as an integer.
